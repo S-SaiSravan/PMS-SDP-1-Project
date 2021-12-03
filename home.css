@@ -1,0 +1,60 @@
+.logo{
+  width:100px;
+}
+.bg{
+  background-image: url("marketing-2.png");
+}
+.home2{
+  margin-top: 500px;
+  margin-left: 50px;
+  border-style:solid;
+  border-radius: 10px;
+  background :#fff;
+  box-shadow: 0 5px 15px rgba(230, 226, 22, 0.5);
+ width: 250px;
+
+}
+.home3{
+  margin-top: 800px;
+  margin-right: 300px;
+}
+
+.box{
+  position: absolute;
+  top:50%;
+  left: 30%;
+  width: 400px;
+  height:350px;
+  padding: 10px;
+  transform: translate(-50%,-50%);
+  box-sizing:content-box ;
+  border-radius: 4px;
+  background :#fff;
+  box-shadow: 0 5px 15px rgba(0, 0,0, .5);
+  display: flex;
+}
+.box .imgBx
+{
+  width:30px;
+  flex:100px;
+}
+.box .imgBx .img
+{
+  max-width: 40%;
+}
+.box .content
+{
+  padding: 20px;
+}
+
+  .img1
+  {
+    margin-left: 600px;
+    width: 600px;
+    height: 400px;
+  }
+  button
+  {
+      border-radius: 12px;
+  }
+  
