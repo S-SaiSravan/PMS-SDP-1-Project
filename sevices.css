@@ -1,0 +1,11 @@
+.list{
+    display: list-item;
+    color: white;
+    margin-right: 10px;
+    margin: 10px;
+}
+.bgg{
+    background-image: url("bg2.jpg");
+    background-size: cover;
+    height: 1200px;
+}
